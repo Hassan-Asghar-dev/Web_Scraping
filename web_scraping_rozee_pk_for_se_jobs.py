@@ -1,6 +1,6 @@
 
 
-pip install selenium pandas openpyxl BeautifulSoup
+pip install selenium pandas  BeautifulSoup
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
