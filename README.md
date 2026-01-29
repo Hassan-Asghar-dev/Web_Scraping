@@ -2,7 +2,7 @@
 
 This repository has 4 files 
 
-1) web_scraping_rozee_pk_for_se_jobs => for scraping the software engeenering jobs rozee.pk jusly-2025.
+1) web_scraping_rozee_pk_for_se_jobs => for scraping the software engeenering jobs rozee.pk july-2025.
 
 2) data_cleaning => to clean the collected data
 
