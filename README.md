@@ -1,4 +1,19 @@
-# Web_Scraping
+<div align="center">
+
+# 🕷️ Web_Scraping — Rozee.pk Software Jobs
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Rozee.pk-00A651?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Rozee.pk"/>
+
+<img src="https://img.shields.io/badge/status-completed-brightgreen?style=flat-square" alt="status"/>
+<img src="https://img.shields.io/badge/data-July_2025-orange?style=flat-square" alt="data period"/>
+<img src="https://img.shields.io/badge/records-cleaned_%26_raw-blueviolet?style=flat-square" alt="records"/>
+
+</div>
+
+<br>
 
 ```
 $ ls Web_Scraping/
@@ -9,8 +24,6 @@ rozee_software_jobs_cleaned_data.xlsx
 ```
 
 Scrapes software engineering job listings from [Rozee.pk](https://www.rozee.pk/) (July 2025) and cleans the collected data into an analysis-ready dataset.
-
-`Python` · `Pandas` · `Excel`
 
 ---
 
